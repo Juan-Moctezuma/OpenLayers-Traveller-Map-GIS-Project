@@ -3,10 +3,10 @@
 ### Introduction
 
 OpenLayers (GIS software), is an open-source JavaScript library that serves the
-purpose of displaying map data. The goal of this website is to pin point the cities
-that have been visited by the author of this project. Geographical coordinate data 
-gets fetched from a .JSON document within the file system and it's viewable as long as 
-the program runs in a local web server.
+purpose of displaying map data. The goal of this website is to pin point the world
+cities that have been visited by the author of this project. Geographical coordinate 
+data gets fetched from a .JSON document within the file system and it's viewable as 
+long as the program runs in a local web server.
 
 ### How to run local web server for testing purposes?
 
