@@ -29,5 +29,5 @@ NOTE that you don't need to request port 9000, you may use (e.g.) 8000.
    * ES6
 4. Vector Data: .JSON and .geoJSON
 5. Node.js
-   * Web Application framework: Express.js
+   * Web Application Framework: Express.js
 5. Python 2 (via Live/local Server)
