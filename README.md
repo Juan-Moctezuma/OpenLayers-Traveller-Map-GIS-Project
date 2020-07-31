@@ -8,6 +8,9 @@ cities that have been visited by the author of this project. Geographical coordi
 data gets fetched from a .JSON document within the file system and it's viewable as 
 long as the program runs in a local web server.
 
+### Link
+Link on Heroku: https://juan-s-travel-map-gis-project.herokuapp.com/
+
 ### How to run local web server for testing purposes?
 
 `python -m SimpleHTTPServer 9000`
