@@ -22,7 +22,7 @@ NOTE that you don't need to request (on your code) port 9000, you may use
 (e.g.) 8000.
 
 ### Directory Tree
-
+<img src="Image/Directory_GIS.png" width="40%">
 
 ### Technologies
 
